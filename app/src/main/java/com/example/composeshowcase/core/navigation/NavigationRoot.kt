@@ -10,7 +10,7 @@ import androidx.navigation3.ui.NavDisplay
 import androidx.savedstate.serialization.SavedStateConfiguration
 import com.example.composeshowcase.ComposeSamples
 import com.example.composeshowcase.app.screen.MainScreenContent
-import com.example.composeshowcase.split_text.SplitTextFeatureScreen
+import com.example.composeshowcase.features.split_text.SplitTextFeatureScreen
 import kotlinx.serialization.modules.SerializersModule
 import kotlinx.serialization.modules.polymorphic
 

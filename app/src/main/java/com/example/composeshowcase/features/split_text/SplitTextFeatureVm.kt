@@ -1,4 +1,4 @@
-package com.example.composeshowcase.split_text
+package com.example.composeshowcase.features.split_text
 
 import com.example.composeshowcase.core.base.BaseVm
 

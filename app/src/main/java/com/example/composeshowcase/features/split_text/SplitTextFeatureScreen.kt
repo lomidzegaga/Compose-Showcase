@@ -1,4 +1,4 @@
-package com.example.composeshowcase.split_text
+package com.example.composeshowcase.features.split_text
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.FastOutSlowInEasing
@@ -17,7 +17,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.composeshowcase.core.base.UiBaseLayout
-import com.example.composeshowcase.core.base.components.Body
 import com.example.composeshowcase.core.base.components.Headline
 import com.example.composeshowcase.core.base.components.UiSlider
 import com.example.composeshowcase.core.base.components.UiText
